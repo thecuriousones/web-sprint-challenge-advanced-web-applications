@@ -9,7 +9,7 @@ function App() {
     <Router>
       <div className="App">
         <header>
-          Color Picker Sprint Challenge!
+          Color Picker Sprint Challenge
           <a data-testid="logoutButton" href="#">logout</a>
         </header> 
 
